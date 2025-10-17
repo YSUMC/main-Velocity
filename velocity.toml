@@ -78,8 +78,8 @@ enable-player-address-logging = true
 # Configure your servers here. Each key represents the server's name, and the value
 # represents the IP address of the server to connect to.
 lobby = "127.0.0.1:20000"
-cre = "127.0.0.1:20001"
-sur = "127.0.0.1:20002"
+sur = "127.0.0.1:20001"
+cre = "127.0.0.1:20002"
 ysu-cloud = "127.0.0.1:20003"
 minigame = "127.0.0.1:20004"
 100mins = "127.0.0.1:20006"
