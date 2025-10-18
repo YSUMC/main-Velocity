@@ -79,6 +79,7 @@ enable-player-address-logging = true
 # represents the IP address of the server to connect to.
 lobby = "127.0.0.1:20000"
 sur = "127.0.0.1:20001"
+sur2 = "127.0.0.1:20001"
 cre = "127.0.0.1:20002"
 ysu-cloud = "127.0.0.1:20003"
 minigame = "127.0.0.1:20004"
@@ -97,6 +98,9 @@ try = [
     "cre"
 ]
 "sur.ysumc.net" = [
+    "sur"
+]
+"sur2.ysumc.net" = [
     "sur"
 ]
 "cloud.ysumc.net" = [
